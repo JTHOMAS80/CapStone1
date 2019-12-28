@@ -1,6 +1,8 @@
 # CapStone1
 1st Tech Elevator Capstone
 
+Virtual Vending Machine ran from the Command Line
+
 File I/O: Real-time Updatable Text-Based Inventory System.
 
 Inheritance. Polymorphism demonstrated in Item Classes.
