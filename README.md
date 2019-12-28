@@ -1,5 +1,4 @@
-# CapStone1
-1st Tech Elevator Capstone
+# Vending Machine Capstone
 
 Virtual Vending Machine ran from the Command Line
 
@@ -9,4 +8,4 @@ Inheritance. Polymorphism demonstrated in Item Classes.
 
 Encapsulation of methods for Business Logic for vending machine functions: EG: money handling, inventory management, sales reports.
 
-TDD methodology used for vending machine logic and functions, then testing, then coding.
+TDD methodology used for vending machine logic and functions, then test making, then coding and development.
